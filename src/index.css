@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+body{
+  background: #eff0f2;
+}
+
+@theme {
+  --color-orange-y: #ec6323;
+  --color-darkgray-y:#ec6323;
+  --color-gray-y:#f3f4f6;
+  --color-purple-y-500:#5f2363;
+  --color-purple-y-400:#a1539f;
+}
+
+
+.swiper-pagination-bullet {
+  width: 40px !important;
+  height: 4px !important;
+  border-radius: 3px !important;
+  background-color: rgb(255, 255, 255) !important;
+  opacity: .6 !important;
+}
+
+.swiper-pagination-bullet-active {
+  background: #ffffff !important;
+  opacity: 1 !important;
+}

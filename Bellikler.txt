@@ -1,0 +1,10 @@
+1. gitlabdan project doretmeli
+2. git clone https://gitlab.ot.com.tm/Eziz/ynamdar-clone-v2.git
+3. git add .
+4. git commit -m 'First'
+5. git push --set-upstream origin main
+
+Sonkularda
+git add .
+git commit -m 'Bellik changed'
+git push

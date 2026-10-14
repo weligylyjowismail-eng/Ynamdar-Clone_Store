@@ -1,0 +1,22 @@
+ansat
+1.Projektiň başlangyç sahypasyny "Market" däl-de, "Store" sahypasyndan başlat.
+tamam
+2.Sözleriň linkini üýtgetmeli-hover
+tamam
+3.Harytlary "Market" bölümine görä däl-de, "Store" bölümine görä üýtgetmeli.
+4.AşakyNavbarduzelt
+5.Telefon bolumindaki saher saylama yerini duzet
+6.ProductDetails_responsive
+7.Search_responsive
+8.Cary_responsive
+9.profil_responsive
+10.Login_responsive
+11.Register_responsive
+--------------------------------kyn------------------------------------------
+1. dukan bölümi yasa
+2.dukan bolumindaki kartny yasa
+tamam
+3.dukan_responsive
+4.VIP dükanlar yasa
+5.Täze dükanlar yasa
+yuklnyar-yerine owdanagoy

@@ -1,0 +1,28 @@
+export type dataT={
+  id:number
+  name_tm:String
+  name_ru:String
+  name_en:String
+  kode:String
+  price:Number
+  discount:Number
+  is_new:Number
+  body_tm:String
+  body_ru:String
+  body_en:String
+  minibody_tm:String
+  minibody_ru:String
+  minibody_en:String
+  brand_id:Number
+  category_id:Number
+  vip:Number
+  image_small:String
+  image_medium:String
+  image_big:String
+  created_at:String
+  brand_name:String
+  category_name_tm:String
+  category_name_ru:String
+  category_name_en:String
+  brand_image:String
+}
